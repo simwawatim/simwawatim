@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Timothy Simwawa** — [@ComputeAce](https://github.com/ComputeAce)
+# 👋 Hi, I’m **Timothy Simwawa**
 
 - 👀 I’m passionate about **software development**, **machine learning**, **cybersecurity**, and **cloud technologies**.  
 - 🌱 Currently sharpening skills in **advanced backend development**, **AI model deployment**, and **system design**.  
